@@ -10,6 +10,7 @@
 .dark h5,
 .dark h6 {
 	color: #fefefe;
+	background-color:white;
 }
 
 .dark a:hover {
