@@ -248,7 +248,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark.overlay-menu #primary-menu:not(.not-dark) ul,
 .overlay-menu #primary-menu.dark ul,
 .overlay-menu #primary-menu.dark ul {
-	background-color: rgba(0, 0, 0, 0.9);
+	background-color: white;
 }
 
 .dark #primary-menu:not(.not-dark) ul li .mega-menu-content.style-2,
