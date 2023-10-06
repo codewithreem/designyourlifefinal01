@@ -10,7 +10,7 @@
 .dark h5,
 .dark h6 {
 	color: #fefefe;
-	background-color:white;
+	
 }
 
 .dark a:hover {
@@ -248,7 +248,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark.overlay-menu #primary-menu:not(.not-dark) ul,
 .overlay-menu #primary-menu.dark ul,
 .overlay-menu #primary-menu.dark ul {
-	background-color: white;
+	background-color: rgba(0, 0, 0, 0.9)
 }
 
 .dark #primary-menu:not(.not-dark) ul li .mega-menu-content.style-2,
