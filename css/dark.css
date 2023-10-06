@@ -226,7 +226,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark #header-wrap:not(.not-dark) #primary-menu > ul > li.current > a,
 .dark #header-wrap:not(.not-dark) #primary-menu > .container > ul > li:hover > a,
 .dark #header-wrap:not(.not-dark) #primary-menu > .container > ul > li.current > a {
-	color: #eee;
+	color: green;
 }
 
 .dark.overlay-menu #header-wrap:not(.not-dark) #primary-menu > ul > li:hover > a,
