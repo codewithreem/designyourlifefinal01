@@ -193,7 +193,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark #header-wrap:not(.not-dark) #side-panel-trigger a:hover,
 .dark #header-wrap:not(.not-dark) #top-account a:hover,
 .dark #header-wrap:not(.not-dark) #top-search form input {
-	color: #eee;
+	color: green;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
